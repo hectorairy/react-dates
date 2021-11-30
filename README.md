@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+
+Quotation manager, developed in React and using Redux. To check the app in production visit this link:
+
+https://react-budgets.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
