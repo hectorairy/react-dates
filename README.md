@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Quotation manager, developed in React and using Redux. To check the app in production visit this link:
 
-https://react-budgets.vercel.app/
+https://react-dates-liard.vercel.app/
 
 ## Available Scripts
 
